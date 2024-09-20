@@ -9,14 +9,29 @@ This repository is dedicated to the development of the Healthcare Appointment Ma
 Team Members
 
 Ghadbawi, Fatima (300301842)
+
 Gowryshankar, Aarani (300135330)
+
 Kulinda-Olibrice, Camille (300117032)
+
 Moominzada, Shabnam (300325897)
+
+
 Osman, Rina (300222206)
+
+
 Vo, Lananh (300241575)
+
+
 Administrator Account
+
+
 
 To test the application as an Administrator, use the following login credentials:
 
+
+
 Username: admin@hams.com
+
+
 Password: AdminHams123!
