@@ -20,6 +20,10 @@ Osman, Rina (300222206)
 
 Vo, Lananh (300241575)
 
+
+
+
+
 Administrator Account
 To test the application as an Administrator, use the following login credentials:
 
